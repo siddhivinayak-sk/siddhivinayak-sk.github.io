@@ -25,13 +25,15 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      - name: Copy content
+      - name: Copy Content Site-1
         run: |
           pwd
           cd ~
           mkdir site1
           cd site1
           git clone -b main https://github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
+          cd kumar.sandeep.github.io
+          cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/index.md .
           pwd
           ls -ltr
           
