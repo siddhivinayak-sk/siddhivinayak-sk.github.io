@@ -41,6 +41,7 @@ jobs:
           git status
           git add .
           git commit -m "Changed in source"
+          git push -u origin main
           pwd
           ls -ltr
           
