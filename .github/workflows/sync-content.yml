@@ -28,7 +28,7 @@ jobs:
       - name: Copy content
         run: |
           pwd
-          cd /usr
+          cd ~
           mkdir site1
           cd site1
           pwd 
