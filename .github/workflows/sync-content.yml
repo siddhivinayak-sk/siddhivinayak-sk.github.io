@@ -47,8 +47,8 @@ jobs:
         run: |
           pwd
           cd ~
-          mkdir site1
-          cd site1
+          mkdir site2
+          cd site2
           git clone -b main https://github.com/siddhivinayak-sk/sandeep.kumar.github.io.git
           cd sandeep.kumar.github.io
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/index.md .
@@ -65,8 +65,8 @@ jobs:
         run: |
           pwd
           cd ~
-          mkdir site1
-          cd site1
+          mkdir site3
+          cd site3
           git clone -b main https://github.com/siddhivinayak-sk/siddhivinayak.sk.github.io.git
           cd siddhivinayak.sk.github.io
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/index.md .
