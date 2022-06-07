@@ -14,12 +14,41 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Actively write articles, blogs, white papers
 
 ## Education
+High School from BSEB, PAT
+Higher Secondary from BSES, PAT
+Bachelor of Computer Application, JPU
+Master of Computer Application, PTU
+Master of Business Administration IT, SVSU
+GCP Developer Certificate
+Azure Fundamental Az-900, Microsoft
+Azure Administrator Az-104, Microsoft
 
+For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
 
 ## Contact
+You can reach out to me via below mediums:
+- LinkedIn: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
+- Medium: [Sandeep Kumar](https://siddhivinayak-sk.medium.com/)
+- GitHub: [Sandeep Kumar](https://github.com/siddhivinayak-sk)
 
-# Articles
+# Contributions
+Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk) 
 
+## Articles
+* [Kubernetes and Replicated StatefulSet with Real World Application](https://siddhivinayak-sk.medium.com/kubernetes-and-replicated-statefulset-with-real-world-application-9bf21fca9eb)
+
+## Solutions
+- [DevOps Practice Implementation with Open Source Solution](https://github.com/siddhivinayak-sk/jwt-openid-oauth2.0-keycloak-kerberos-ntlm/tree/main/spring-boot-jwt)
+- [Authorization, Authentication, IDP and SP Solution](https://github.com/siddhivinayak-sk/jwt-openid-oauth2.0-keycloak-kerberos-ntlm)
+- [Single Test Framework for Browser and Android Testing](https://github.com/siddhivinayak-sk/myrobot)
+- [Paralell Processing of Images Solution in Azure](https://github.com/siddhivinayak-sk/azure-function)
+- [Mutual SSL in Java](https://github.com/siddhivinayak-sk/mutual-ssl-server-client)
+- [Workflow/Dataflow Solutions](https://github.com/siddhivinayak-sk/dataflow-platform)
+
+Please follow the [articles](https://siddhivinayak-sk.medium.com/) along with code.
+
+## Code
+Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk) 
 
 ## Update:
-
+- will be posted...
