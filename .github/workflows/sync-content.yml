@@ -25,11 +25,19 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
+      - name: Copy content
+        run: |
+          pwd
+          cd /usr
+          mkdir site1
+          cd site1
+          pwd 
+
+      # List files in directory
       - name: ls
         run: ls -ltr
 
-      # Runs a set of commands using the runners shell
+      # Run tree command
       - name: tree
         run: |
           tree
