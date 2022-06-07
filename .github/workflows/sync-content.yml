@@ -31,6 +31,7 @@ jobs:
           cd ~
           mkdir site1
           cd site1
+          git clone -b main https://github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
           pwd 
 
       # List files in directory
