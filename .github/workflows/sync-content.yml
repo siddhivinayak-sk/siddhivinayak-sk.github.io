@@ -41,7 +41,7 @@ jobs:
           git status
           git add .
           git commit -m "Changed in source"
-          git push -u https://siddhivinayak-sk:github_token@github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
+          git push -u https://siddhivinayak-sk:${{ secrets.GITHUB_TOKEN }}@github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
           pwd
           ls -ltr
           
