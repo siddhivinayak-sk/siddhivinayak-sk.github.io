@@ -36,6 +36,8 @@ jobs:
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/index.md .
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/README.md .
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/_config.yml .
+          git config --global user.email "siddhivinayak.sk@gmail.com"
+          git config --global user.name "siddhivinayak-sk"
           git status
           git add .
           git commit -m "Changed in source"
