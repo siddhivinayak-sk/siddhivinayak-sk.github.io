@@ -31,7 +31,7 @@ jobs:
           cd ~
           mkdir site1
           cd site1
-          git clone -b main https://.:${{ secrets.GITHUB_TOKEN }}@github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
+          git clone -b main https://github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
           cd kumar.sandeep.github.io
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/index.md .
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/README.md .
@@ -41,7 +41,7 @@ jobs:
           git status
           git add .
           git commit -m "Changed in source"
-          git push -u origin main
+          git push -u https://siddhivinayak-sk:github_token@github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
           pwd
           ls -ltr
           
