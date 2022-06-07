@@ -34,6 +34,11 @@ jobs:
           git clone -b main https://github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
           cd kumar.sandeep.github.io
           cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/index.md .
+          cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/README.md .
+          cp -rf /home/runner/work/siddhivinayak-sk.github.io/siddhivinayak-sk.github.io/_config.yml .
+          git status
+          git add .
+          git commit -m "Changed in source"
           pwd
           ls -ltr
           
