@@ -32,7 +32,9 @@ jobs:
           mkdir site1
           cd site1
           git clone -b main https://github.com/siddhivinayak-sk/kumar.sandeep.github.io.git
-          pwd 
+          pwd
+          ls -ltr
+          
 
       # List files in directory
       - name: ls
