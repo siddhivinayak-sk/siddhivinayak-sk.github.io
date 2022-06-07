@@ -14,14 +14,14 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Actively write articles, blogs, white papers
 
 ## Education
-High School from BSEB, PAT
-Higher Secondary from BSES, PAT
-Bachelor of Computer Application, JPU
-Master of Computer Application, PTU
-Master of Business Administration IT, SVSU
-GCP Developer Certificate
-Azure Fundamental Az-900, Microsoft
-Azure Administrator Az-104, Microsoft
+* High School from BSEB, PAT
+* Higher Secondary from BSES, PAT
+* Bachelor of Computer Application, JPU
+* Master of Computer Application, PTU
+* Master of Business Administration IT, SVSU
+* GCP Developer Certificate
+* Azure Fundamental Az-900, Microsoft
+* Azure Administrator Az-104, Microsoft
 
 For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
 
