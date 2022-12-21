@@ -1,9 +1,11 @@
 # Welcome to Sandeep Kumar's Page
 We know technology is shifting the world towards a new future for humans. Millions of technolgy experts are contributing and inventing the new technologies, algorithms to make human life more easy. To make technology available for everyone, open contribution and information sharing is very important.
 
-Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to see your here on my page and hope you will enjoy with technical information and code contributed by me.
+Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to see you here on my page and hope you will enjoy with technical information and code contributed by me.
 
 # About Me
+![Sandeep Kumar](myimage/me.jpg)
+
 * 11+ years in delivering the high-performance technical solutions and services for various prominant organizations and clients with latest technologies and solutions.
 * Having years of experience in emerging design patterns like micro-services and Cloud technologies in platform agnostic mode with Azure, AWS and GCP.
 * Well versed in Agile methodology, SAFe, Scrum/Kanban framework, DevOps practices and tools with good exposure with Deployment platforms like Docker, Kubernetes, Helm etc. on private data centers as well as on public Cloud with vendors like Azure, AWS and GCP.
@@ -21,7 +23,10 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Master of Business Administration IT, SVSU
 * GCP Developer Certificate
 * Azure Fundamental Az-900, Microsoft
-* Azure Administrator Az-104, Microsoft
+* Azure Administrator Associate Az-104, Microsoft
+* Developing Solutions for Azure Az-204, Microsoft
+* Azure DevOps Expert Az-400, Microsoft
+* Azure AVD Specialist Az-140, Microsoft
 
 For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
 
@@ -30,6 +35,7 @@ You can reach out to me via below mediums:
 - LinkedIn: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
 - Medium: [Sandeep Kumar](https://siddhivinayak-sk.medium.com/)
 - GitHub: [Sandeep Kumar](https://github.com/siddhivinayak-sk)
+- Stackoverflow: [Sandeep Kumar](https://stackoverflow.com/users/4132230/sandeep-kumar)
 
 # Contributions
 Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk) 
@@ -69,3 +75,11 @@ Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk)
 
 ## Update:
 - will be posted...
+
+
+
+
+
+
+Thanks,
+<br/>Sandeep Kumar
