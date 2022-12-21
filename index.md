@@ -4,7 +4,7 @@ We know technology is shifting the world towards a new future for humans. Millio
 Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to see you here on my page and hope you will enjoy with technical information and code contributed by me.
 
 # About Me
-![Sandeep Kumar](myimage/me.jpg)
+![Sandeep Kumar](me-art.jpg)
 
 * 11+ years in delivering the high-performance technical solutions and services for various prominant organizations and clients with latest technologies and solutions.
 * Having years of experience in emerging design patterns like micro-services and Cloud technologies in platform agnostic mode with Azure, AWS and GCP.
