@@ -6,7 +6,7 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 # About Me
 ![Sandeep Kumar](me-art.jpg)
 
-* 11+ years in delivering the high-performance technical solutions and services for various prominant organizations and clients with latest technologies and solutions.
+* 13+ years in delivering the high-performance technical solutions and services for various prominant organizations and clients with latest technologies and solutions.
 * Having years of experience in emerging design patterns like micro-services and Cloud technologies in platform agnostic mode with Azure, AWS and GCP.
 * Well versed in Agile methodology, SAFe, Scrum/Kanban framework, DevOps practices and tools with good exposure with Deployment platforms like Docker, Kubernetes, Helm etc. on private data centers as well as on public Cloud with vendors like Azure, AWS and GCP.
 * Actively involved in software development activities: Technical Solutions & Design, Architecture review & Recommendation, Development, Testing and Release Management and Production Support along with leading small and medium sized teams across locations, coordinating with the clients on the requirement gathering and analysis, due-diligence, Decision Analysis and Resolution (DAR), Code Quality Assessment, defect management and reporting. Experience in designing related activities like modeling, high level design, low level design, service code review, code quality management, performance analysis and service delivery and maintenance.
@@ -27,6 +27,7 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Developing Solutions for Azure Az-204, Microsoft
 * Azure DevOps Expert Az-400, Microsoft
 * Azure AVD Specialist Az-140, Microsoft
+* Azure Solution Architect Expert Az-305, Microsoft
 
 For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
 
