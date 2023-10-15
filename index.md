@@ -29,14 +29,17 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Azure AVD Specialist Az-140, Microsoft
 * Azure Solution Architect Expert Az-305, Microsoft
 
-For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
+For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/siddhivinayak-sk)
+
+
 
 ## Contact
 You can reach out to me via below mediums:
-- LinkedIn: [Sandeep Kumar](https://www.linkedin.com/in/sandeep-kumar-5775954b/)
+- LinkedIn: [Sandeep Kumar](https://www.linkedin.com/in/siddhivinayak-sk)
 - Medium: [Sandeep Kumar](https://siddhivinayak-sk.medium.com/)
 - GitHub: [Sandeep Kumar](https://github.com/siddhivinayak-sk)
 - Stackoverflow: [Sandeep Kumar](https://stackoverflow.com/users/4132230/sandeep-kumar)
+- X: [Sandeep Kumar](https://x.com/SiddhivinayakSk)
 
 # Contributions
 Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk) 
