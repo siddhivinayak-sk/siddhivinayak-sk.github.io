@@ -1,4 +1,15 @@
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-time-machine
+# theme: jekyll-theme-tactile
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-modernist
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-leap-day
+theme: jekyll-theme-hacker
 
+# Page title and description 
 title: Sandeep Kumar's Corner
 description: This is my personal profile page.
