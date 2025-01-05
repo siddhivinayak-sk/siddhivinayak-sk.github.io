@@ -36,11 +36,11 @@ For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com
 
 ## Contact
 You can reach out to me via below mediums:
-- LinkedIn: [Sandeep Kumar](https://www.linkedin.com/in/siddhivinayak-sk)
-- Medium: [Sandeep Kumar](https://siddhivinayak-sk.medium.com/)
-- GitHub: [Sandeep Kumar](https://github.com/siddhivinayak-sk)
-- Stackoverflow: [Sandeep Kumar](https://stackoverflow.com/users/4132230/sandeep-kumar)
-- X: [Sandeep Kumar](https://x.com/SiddhivinayakSk)
+- LinkedIn: [siddhivinayak-sk](https://www.linkedin.com/in/siddhivinayak-sk)
+- Medium: [siddhivinayak-sk](https://siddhivinayak-sk.medium.com/)
+- GitHub: [siddhivinayak-sk](https://github.com/siddhivinayak-sk)
+- Stackoverflow: [sandeep-kumar](https://stackoverflow.com/users/4132230/sandeep-kumar)
+- X: [SiddhivinayakSk](https://x.com/SiddhivinayakSk)
 
 # Contributions
 Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk) 
