@@ -22,16 +22,17 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Master of Computer Application, PTU
 * Master of Business Administration IT, SVSU
 * GCP Developer Certificate
-* Azure Fundamental Az-900, Microsoft
-* Azure Administrator Associate Az-104, Microsoft
-* Developing Solutions for Azure Az-204, Microsoft
-* Azure DevOps Expert Az-400, Microsoft
-* Azure AVD Specialist Az-140, Microsoft
-* Azure Solution Architect Expert Az-305, Microsoft
+* Microsoft Certified: Azure Fundamentals, AZ-900
+* Microsoft Certified: Azure Data Fundamentals, DP-900
+* Microsoft Certified: Azure Administrator Associate, AZ-104
+* Microsoft Certified: Azure Developer Associate, AZ-204
+* Microsoft Certified: Security, Compliance, and Identity Fundamentals, SC-900
+* Microsoft Certified: Azure Stack Hub Operator Associate, AZ-600
+* Microsoft Certified: Azure Solutions Architect Expert, AZ-305
+* Microsoft Certified: DevOps Engineer Expert, AZ-400
+* Microsoft Certified: Azure Virtual Desktop Specialty, AZ-140
 
 For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/siddhivinayak-sk)
-
-
 
 ## Contact
 You can reach out to me via below mediums:
@@ -78,7 +79,6 @@ Please follow the [articles](https://siddhivinayak-sk.medium.com/) along with co
 Can checkout various projects from [GitHub](https://github.com/siddhivinayak-sk) 
 
 Regular contribution can be seen at Medium, Github or Stackoverflow page
-
 
 Thanks,
 <br/>Sandeep Kumar
