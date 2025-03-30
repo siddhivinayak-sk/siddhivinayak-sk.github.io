@@ -32,6 +32,7 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Microsoft Certified: DevOps Engineer Expert, AZ-400
 * Microsoft Certified: Azure Virtual Desktop Specialty, AZ-140
 * Microsoft Certified: Azure Cosmos DB Developer Specialty, DP-420
+* Microsoft Certified: Azure Data Engineer Associate, DP-203
 
 For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/siddhivinayak-sk)
 
