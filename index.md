@@ -1,4 +1,7 @@
-<style>.btn { display: none; }</style>
+<style>
+  .btn { display: none; }
+  .btn-github { display: none; }
+</style>
 
 We know technology is shifting the world towards a new future for humans. Millions of technolgy experts are contributing and inventing the new technologies, algorithms to make human life more easy. To make technology available for everyone, open contribution and information sharing is very important.
 
