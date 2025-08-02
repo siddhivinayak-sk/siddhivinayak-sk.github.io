@@ -34,6 +34,7 @@ Welcome to ***Sandeep Kumar*** (aka ***Siddhivinayak-Sk***)'s Page. I'm happy to
 * Microsoft Certified: Azure Cosmos DB Developer Specialty, DP-420
 * Microsoft Certified: Azure Data Engineer Associate, DP-203
 * AWS Partner: Accreditation (Technical)
+* AWS Certified Developer - Associate, DVA-C02
 
 For detail, please visit LinkedIn page: [Sandeep Kumar](https://www.linkedin.com/in/siddhivinayak-sk)
 
