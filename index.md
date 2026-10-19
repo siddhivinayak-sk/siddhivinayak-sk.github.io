@@ -10,9 +10,9 @@ permalink: /
 <section class="profile-intro" aria-labelledby="intro-heading">
   <img class="profile-photo" src="{{ '/me-art.jpg' | relative_url }}" alt="Illustrated portrait of Sandeep Kumar">
   <div class="profile-intro-copy">
-    <p class="eyebrow">Technology leader · 16+ years of experience</p>
+    <p class="eyebrow">Technical Architect · 16+ years of experience</p>
     <h1 id="intro-heading">Building thoughtful solutions for complex technology challenges.</h1>
-    <p class="lead">I work across software architecture, cloud platforms, and applied AI to help teams turn ambitious ideas into dependable solutions.</p>
+    <p class="lead">I work across solution design, microservices, cloud platforms, and applied AI, with a focus on dependable software and secure delivery.</p>
     <p>I'm Sandeep Kumar, also known as <strong>Siddhivinayak-Sk</strong>. I believe open contribution and information sharing make technology more accessible and useful to everyone.</p>
     <p class="intro-links"><a href="{{ '/profile/' | relative_url }}">Explore my experience</a><a href="{{ '/projects/' | relative_url }}">Browse selected projects</a></p>
   </div>

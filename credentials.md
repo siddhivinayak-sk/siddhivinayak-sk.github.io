@@ -19,18 +19,19 @@ permalink: /credentials/
 
 ## Certifications
 
-- GCP Developer Certificate
-- Microsoft Certified: Azure Fundamentals, AZ-900
+- Microsoft Certified: Azure AI Fundamentals, AI-901
+- Microsoft AI Skills Fest 2026
+- AWS Certified Developer - Associate, DVA-C02
+- AWS Partner: Technical Accredited
+- Microsoft Certified: Azure Data Engineer Associate, DP-203
+- Microsoft Certified: Azure Cosmos DB Developer Specialty, DP-420
 - Microsoft Certified: Azure Data Fundamentals, DP-900
-- Microsoft Certified: Azure Administrator Associate, AZ-104
-- Microsoft Certified: Azure Developer Associate, AZ-204
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals, SC-900
 - Microsoft Certified: Azure Stack Hub Operator Associate, AZ-600
 - Microsoft Certified: Azure Solutions Architect Expert, AZ-305
-- Microsoft Certified: DevOps Engineer Expert, AZ-400
-- Microsoft Certified: Azure Virtual Desktop Specialty, AZ-140
-- Microsoft Certified: Azure Cosmos DB Developer Specialty, DP-420
-- Microsoft Certified: Azure Data Engineer Associate, DP-203
-- AWS Partner: Accreditation (Technical)
-- AWS Certified Developer - Associate, DVA-C02
-- Microsoft Certified: Azure AI Fundamentals, AI-901
+- GCP Developer Certificate
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure Virtual Desktop Specialty

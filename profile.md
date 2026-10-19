@@ -9,7 +9,7 @@ permalink: /profile/
 
 # Professional profile
 
-I bring **16+ years of experience** delivering high-performance technology solutions and services for prominent organizations and clients. My work spans architecture, engineering, delivery, and production support, with a focus on practical solutions built using modern technologies.
+I am a **Technical Architect**, working on Foundation (Core-Security and Core-Services), an accelerator platform for cloud-native, microservice-based application development. Across **16+ years of experience**, I have delivered technology solutions spanning architecture, engineering, release, and production support.
 
 ## Focus areas
 
