@@ -5,6 +5,12 @@ description: Technology leader focused on software architecture, cloud, and AI s
 permalink: /
 ---
 
+<style>
+.site-footer .site-footer-credits {
+  display: none !important;
+}
+</style>
+
 {% include site-nav.html %}
 
 <section class="profile-intro" aria-labelledby="intro-heading">

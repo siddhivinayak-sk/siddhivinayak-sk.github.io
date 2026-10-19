@@ -5,6 +5,13 @@ description: Experience, capabilities, leadership, and industry background.
 permalink: /profile/
 ---
 
+<style>
+.site-footer .site-footer-credits {
+  display: none !important;
+}
+</style>
+
+
 {% include site-nav.html %}
 
 # Professional profile

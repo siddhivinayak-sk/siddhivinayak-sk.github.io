@@ -5,6 +5,13 @@ description: Selected open-source projects and technical solutions.
 permalink: /projects/
 ---
 
+<style>
+.site-footer .site-footer-credits {
+  display: none !important;
+}
+</style>
+
+
 {% include site-nav.html %}
 
 # Selected projects
