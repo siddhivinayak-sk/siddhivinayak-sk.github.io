@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Sandeep Kumar's Profile Site
 
-You can use the [editor on GitHub](https://github.com/siddhivinayak-sk/siddhivinayak-sk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A personal professional profile and portfolio built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). The site uses the Cayman theme with custom styling and shared page navigation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Site Pages
 
-### Markdown
+- **Home** (`index.md`): Introduction, highlights, selected work, and contact links.
+- **Profile** (`profile.md`): Experience, focus areas, industries, and recognition.
+- **Projects** (`projects.md`): Selected open-source solutions.
+- **Writing** (`writing.md`): Technical articles grouped by topic.
+- **Credentials** (`credentials.md`): Education and certifications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shared navigation is maintained in `_includes/site-nav.html`. Site title, description, and theme settings are in `_config.yml`; custom styling is in `assets/css/style.scss`.
 
-```markdown
-Syntax highlighted code block
+### Preview Locally
 
-# Header 1
-## Header 2
-### Header 3
+Install Ruby, Bundler, and the GitHub Pages gem, then run Jekyll from the repository root:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+gem install bundler
+gem install github-pages
+jekyll serve
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Open the local URL printed by Jekyll, typically `http://localhost:4000`.
 
-### Jekyll Themes
+### Publish
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siddhivinayak-sk/siddhivinayak-sk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+GitHub Pages builds and publishes the site from the repository's configured Pages source when changes are pushed. To check or change the source, open the repository's **Settings → Pages**.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Edit the Markdown pages to maintain profile content. Keep the navigation destinations in `_includes/site-nav.html` aligned with page permalinks.
