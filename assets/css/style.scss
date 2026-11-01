@@ -279,3 +279,263 @@ a:hover {
 .site-footer .site-footer-credits {
   display: none !important;
 }
+
+a:focus-visible {
+  outline: 3px solid var(--green);
+  outline-offset: 4px;
+}
+
+.site-nav .nav-support {
+  margin-left: auto;
+  color: var(--forest);
+}
+
+.button {
+  display: inline-flex;
+  gap: 0.75rem;
+  align-items: center;
+  justify-content: center;
+  padding: 0.8rem 1.15rem;
+  border: 1px solid transparent;
+  border-radius: 0.65rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: center;
+  text-decoration: none;
+}
+
+.button:hover {
+  text-decoration: none;
+}
+
+.primary-button {
+  background: var(--forest);
+  color: #fff;
+}
+
+.primary-button:hover {
+  background: var(--green);
+  color: #fff;
+}
+
+.secondary-button {
+  border-color: var(--line);
+  background: #fff;
+  color: var(--forest);
+}
+
+.secondary-button:hover {
+  border-color: var(--green);
+}
+
+.intro-links {
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.intro-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.page-intro {
+  padding: 2.5rem 0 2rem;
+}
+
+.page-intro h1 {
+  max-width: 760px;
+  margin: 0.5rem 0 1rem;
+  font-size: 2.5rem;
+  line-height: 1.15;
+}
+
+.page-intro .lead {
+  max-width: 780px;
+}
+
+.topic-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.topic-nav a {
+  padding: 0.5rem 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 2rem;
+  background: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.topic-nav a:hover {
+  border-color: var(--green);
+}
+
+.catalog-section {
+  margin-bottom: 2rem;
+}
+
+.catalog-section h2 {
+  scroll-margin-top: 1rem;
+}
+
+.section-count,
+.catalog-note {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.showcase-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  padding: 1.5rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(23, 63, 56, 0.04);
+  overflow-wrap: anywhere;
+}
+
+.project-card {
+  border-top: 3px solid var(--green);
+}
+
+.article-card {
+  background: #fafff5;
+}
+
+.main-content .showcase-card h3 {
+  margin: 0.65rem 0 0.8rem;
+  font-size: 1.3rem;
+  line-height: 1.35;
+}
+
+.showcase-card h3 a {
+  color: var(--forest);
+  text-decoration: none;
+}
+
+.showcase-card h3 a:hover {
+  text-decoration: underline;
+}
+
+.card-kicker {
+  margin: 0;
+  color: var(--green);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.card-description {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.card-link {
+  align-self: flex-start;
+  margin-top: auto;
+  padding-top: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.coffee-support {
+  display: grid;
+  grid-template-columns: 100px minmax(0, 1fr);
+  gap: 2rem;
+  align-items: center;
+  margin: 2.5rem 0;
+  padding: 2rem;
+  border: 1px solid #e8cd91;
+  border-radius: 1.25rem;
+  background: linear-gradient(120deg, #fff4d6, #fce8b3);
+  color: #503817;
+}
+
+.coffee-art {
+  display: grid;
+  width: 100px;
+  height: 120px;
+  place-items: center;
+  color: #805016;
+}
+
+.coffee-art svg {
+  width: 100%;
+  height: auto;
+}
+
+.coffee-copy .eyebrow {
+  color: #745019;
+}
+
+.main-content .coffee-copy h2 {
+  margin: 0.5rem 0 0.8rem;
+  color: #503817;
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+
+.coffee-button {
+  border-color: #503817;
+  background: #503817;
+  color: #fff4d6;
+}
+
+.coffee-button:hover {
+  background: #745019;
+  color: #fff;
+}
+
+.coffee-copy .coffee-note {
+  margin: 1rem 0 0;
+  color: #745019;
+  font-size: 0.85rem;
+}
+
+@media screen and (max-width: 640px) {
+  .page-intro {
+    padding-top: 1.75rem;
+  }
+
+  .page-intro h1 {
+    font-size: 2rem;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .showcase-card {
+    padding: 1.25rem;
+  }
+
+  .coffee-support {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    padding: 1.5rem;
+  }
+
+  .coffee-art {
+    width: 65px;
+    height: 80px;
+  }
+
+  .main-content .coffee-copy h2 {
+    font-size: 1.6rem;
+  }
+}

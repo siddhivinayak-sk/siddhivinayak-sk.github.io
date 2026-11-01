@@ -1,37 +1,36 @@
 ---
 layout: default
 title: Projects | Sandeep Kumar
-description: Selected open-source projects and technical solutions.
+description: Open-source tools and examples for agile teams, AI risk validation, JMeter, Azure, Kubernetes, and application security.
 permalink: /projects/
 ---
 
-<style>
-.site-footer .site-footer-credits {
-  display: none !important;
-}
-</style>
-
-
 {% include site-nav.html %}
 
-# Selected projects
+<header class="page-intro">
+  <p class="eyebrow">Open source / practical engineering</p>
+  <h1>Tools to use. Code to explore. Ideas to build on.</h1>
+  <p class="lead">I share practical solutions across AI, cloud, identity, testing, and microservices. Each project is an invitation to learn, experiment, and contribute.</p>
+  <a class="button primary-button" href="https://github.com/siddhivinayak-sk?tab=repositories">Browse all repositories on GitHub <span aria-hidden="true">&rarr;</span></a>
+</header>
 
-I build and share practical solutions across AI, cloud, identity, testing, security, and data workflows. Explore more work on [GitHub](https://github.com/siddhivinayak-sk).
+{% assign project_groups = site.data.projects | group_by: "category" %}
+<nav class="topic-nav" aria-label="Project categories">
+  {% for group in project_groups %}
+  <a href="#{{ group.name | slugify }}">{{ group.name | escape }}</a>
+  {% endfor %}
+</nav>
 
-## AI and cloud
+{% for group in project_groups %}
+<section class="catalog-section" aria-labelledby="{{ group.name | slugify }}">
+  <div class="section-heading">
+    <h2 id="{{ group.name | slugify }}">{{ group.name | escape }}</h2>
+    <span class="section-count">{{ group.items | size }} projects</span>
+  </div>
+  {% include project-grid.html projects=group.items %}
+</section>
+{% endfor %}
 
-- [AI Artifact Risk Validator](https://github.com/siddhivinayak-sk/ai-artifact-risk-validator)
-- [Parallel Processing of Images Solution in Azure](https://github.com/siddhivinayak-sk/azure-function)
+<p class="catalog-note">Looking for a walkthrough? Explore my <a href="{{ '/writing/' | relative_url }}">technical articles</a> for related explanations and examples.</p>
 
-## Identity and security
-
-- [DevOps Practice Implementation with Open Source Solution](https://github.com/siddhivinayak-sk/jwt-openid-oauth2.0-keycloak-kerberos-ntlm/tree/main/spring-boot-jwt)
-- [Authorization, Authentication, IDP and SP Solution](https://github.com/siddhivinayak-sk/jwt-openid-oauth2.0-keycloak-kerberos-ntlm)
-- [Mutual SSL in Java](https://github.com/siddhivinayak-sk/mutual-ssl-server-client)
-
-## Testing and workflow
-
-- [Single Test Framework for Browser and Android Testing](https://github.com/siddhivinayak-sk/myrobot)
-- [Workflow/Dataflow Solutions](https://github.com/siddhivinayak-sk/dataflow-platform)
-
-Follow the [articles]({{ '/writing/' | relative_url }}) for technical walkthroughs and related code.
+{% include coffee-support.html %}
