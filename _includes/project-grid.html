@@ -1,0 +1,10 @@
+<div class="card-grid">
+  {% for project in include.projects %}
+  <article class="showcase-card project-card">
+    <p class="card-kicker">{{ project.technology | escape }}</p>
+    <h3><a href="https://github.com/siddhivinayak-sk/{{ project.repo | escape }}">{{ project.name | escape }}</a></h3>
+    <p class="card-description">{{ project.description | escape }}</p>
+    <a class="card-link" href="https://github.com/siddhivinayak-sk/{{ project.repo | escape }}" aria-label="Explore {{ project.name | escape }} on GitHub">Explore on GitHub <span aria-hidden="true">&rarr;</span></a>
+  </article>
+  {% endfor %}
+</div>

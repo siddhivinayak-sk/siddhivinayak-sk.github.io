@@ -6,11 +6,19 @@ A personal professional profile and portfolio built with [Jekyll](https://jekyll
 
 - **Home** (`index.md`): Introduction, highlights, selected work, and contact links.
 - **Profile** (`profile.md`): Experience, focus areas, industries, and recognition.
-- **Projects** (`projects.md`): Selected open-source solutions.
-- **Writing** (`writing.md`): Technical articles grouped by topic.
+- **Projects** (`projects.md`): Categorized open-source project cards linking to GitHub.
+- **Writing** (`writing.md`): Technical article cards grouped by topic and linking to Medium.
 - **Credentials** (`credentials.md`): Education and certifications.
 
 Shared navigation is maintained in `_includes/site-nav.html`. Site title, description, and theme settings are in `_config.yml`; custom styling is in `assets/css/style.scss`.
+
+### Maintain the showcase
+
+- Edit `_data/projects.yml` to add or update project names, repository names, categories, technologies, and descriptions. Set `featured: true` to include a project on the home page.
+- Edit `_data/articles.yml` to add or update article titles, Medium URL slugs, categories, and descriptions. Set `featured: true` to include an article on the home page.
+- Categories and item counts are generated from these lists. Shared card templates in `_includes/project-grid.html` and `_includes/article-grid.html` keep the home page and catalogs consistent.
+- The lists are curated, not fetched in visitors' browsers. Project metadata was checked against public GitHub repositories; additional article links were sourced from the [Medium RSS feed](https://siddhivinayak-sk.medium.com/feed). Review the lists when publishing new work.
+- Set `buymeacoffee_url` in `_config.yml` to change the support destination. `_includes/coffee-support.html` provides the shared support panel on Home, Projects, and Writing; the navigation also links to it. This is a plain link, with no third-party donation widget or tracking script.
 
 ### Preview Locally
 

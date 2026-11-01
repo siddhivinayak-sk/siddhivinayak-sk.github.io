@@ -1,0 +1,94 @@
+- name: Scrum Poker
+  repo: scrum-poker
+  category: Collaboration and AI
+  technology: TypeScript
+  featured: true
+  description: Real-time planning poker and retrospective boards for agile teams, with collaborative voting and sprint feedback.
+
+- name: AI Artifact Risk Validator
+  repo: ai-artifact-risk-validator
+  category: Collaboration and AI
+  technology: Python
+  featured: true
+  description: Scan prompts, agents, skills, and MCP configurations for security, quality, compliance, and operational risks before sharing.
+
+- name: SSE JMeter Plugin
+  repo: sse-jmeter-plugin
+  category: Performance testing
+  technology: Java / JMeter
+  featured: true
+  description: Extend Apache JMeter with a plugin for testing Server-Sent Events (SSE).
+
+- name: S3 JMeter Plugin
+  repo: s3-jmeter-plugin
+  category: Performance testing
+  technology: Java / JMeter
+  featured: true
+  description: An Apache JMeter plugin for working with Amazon S3 in test plans.
+
+- name: Azure Functions
+  repo: azure-function
+  category: Cloud and platforms
+  technology: Java / Azure
+  description: Explore Java-based Azure Functions and serverless application examples.
+
+- name: Azure Key Vault
+  repo: azure-key-vault
+  category: Cloud and platforms
+  technology: Java / Jasypt
+  description: Integrate Azure Key Vault with Java and Jasypt for application secret management.
+
+- name: Azure Blob Storage
+  repo: azure-blob-storage
+  category: Cloud and platforms
+  technology: Java / Azure
+  description: Java examples for integrating applications with Azure Blob Storage.
+
+- name: Kubernetes Projects
+  repo: k8s-projects
+  category: Cloud and platforms
+  technology: Docker / Kubernetes
+  description: Practical projects exploring containers, Kubernetes, and microservices.
+
+- name: Identity and SSO
+  repo: jwt-openid-oauth2.0-keycloak-kerberos-ntlm
+  category: Identity and security
+  technology: Java / Spring Boot
+  featured: true
+  description: Authentication, authorization, and SSO examples covering JWT, OpenID Connect, OAuth 2.0, Keycloak, Kerberos, and NTLM.
+
+- name: Mutual SSL Server and Client
+  repo: mutual-ssl-server-client
+  category: Identity and security
+  technology: Java / TLS
+  description: Java server and client examples demonstrating SSL and mutual certificate authentication.
+
+- name: DigiStore Frontend
+  repo: digistore-frontend-ms
+  category: Applications and microservices
+  technology: TypeScript
+  description: Explore the frontend side of the DigiStore application alongside its product microservice.
+
+- name: DigiStore Product Microservice
+  repo: digistore-product-ms
+  category: Applications and microservices
+  technology: Java
+  description: The product microservice in the DigiStore project collection.
+
+- name: Spring Cloud Microservices Sample
+  repo: spring-config-admin-eureka-zuul-sample
+  category: Applications and microservices
+  technology: Java / Spring Cloud
+  description: A sample bringing together Spring Config, Admin, Eureka service discovery, and Zuul routing.
+
+- name: Dataflow Platform
+  repo: dataflow-platform
+  category: Applications and microservices
+  technology: Java
+  description: Explore workflow and dataflow solutions through a Java-based project.
+
+- name: MyRobot
+  repo: myrobot
+  category: Performance testing
+  technology: Java / Test automation
+  description: A shared test framework for browser and Android application testing.

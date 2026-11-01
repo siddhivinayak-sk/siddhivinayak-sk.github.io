@@ -1,0 +1,142 @@
+- title: "DevToys: Swiss Army Knife for developers"
+  slug: devtoys-swiss-army-knife-for-developers-aeff1848bb47
+  category: Developer tools and DevOps
+  featured: true
+  description: A look at a practical toolbox for everyday development tasks.
+
+- title: "API Gateways: Netflix OSS Zuul vs Spring Cloud Gateway"
+  slug: api-gateways-netflix-oss-zuul-vs-spring-cloud-gateway-8b12a1089f87
+  category: Application development
+  featured: true
+  description: Explore two gateway approaches in the Spring microservices ecosystem.
+
+- title: "Kubeseal & SealedSecret: Make your secrets secure in SCM"
+  slug: kubeseal-sealedsecret-make-your-secrets-secure-in-scm-by-using-sealed-secret-4631bcb39bf8
+  category: Cloud and Kubernetes
+  featured: true
+  description: Work with sealed secrets when keeping Kubernetes configuration in source control.
+
+- title: Distroless Image in Docker and Kubernetes Environment
+  slug: distroless-image-in-docker-and-kubernetes-environment-918aee6116dc
+  category: Cloud and Kubernetes
+  description: Explore distroless container images for Docker and Kubernetes workloads.
+
+- title: "BusyBox: The developer's Swiss Army Knife for Embedded Linux"
+  slug: busybox-the-developers-swiss-army-knife-for-embedded-linux-98c312ac5843
+  category: Developer tools and DevOps
+  description: Get acquainted with the compact Linux utility toolkit.
+
+- title: "The Kubernetes IDE: K8s Lens"
+  slug: the-kubernetes-ide-k8s-lens-4d90a134a36b
+  category: Cloud and Kubernetes
+  description: Explore Lens as a workspace for Kubernetes.
+
+- title: "BitBucket: Atlassian Solution for DevSecOps"
+  slug: bitbucket-atlassian-solution-for-devsecops-37076c0db990
+  category: Developer tools and DevOps
+  description: A walkthrough of Bitbucket in the software delivery ecosystem.
+
+- title: "GitLab: A DevSecOps Platform"
+  slug: gitlab-a-devsecops-platform-ebacbf8d16cf
+  category: Developer tools and DevOps
+  description: Explore GitLab's role in development and software delivery.
+
+- title: "GitHub: A DevSecOps Platform"
+  slug: github-a-devsecops-platform-fdeaf1411221
+  category: Developer tools and DevOps
+  description: A look at GitHub as a platform for development and delivery.
+
+- title: "Prevent your website from brute-force attacks: Use fail2ban to block malicious clients"
+  slug: prevent-your-website-from-brute-force-attacks-use-fail2ban-to-block-malicious-clients-92b15b5ae4ec
+  category: Identity and application security
+  description: Learn how fail2ban can help block malicious clients.
+
+- title: Kubernetes and Replicated StatefulSet with Real World Application
+  slug: kubernetes-and-replicated-statefulset-with-real-world-application-9bf21fca9eb
+  category: Cloud and Kubernetes
+  description: A practical walkthrough of replicated stateful workloads on Kubernetes.
+
+- title: Azure Blob Storage with Java
+  slug: azure-blob-storage-with-java-5817347a89d0
+  category: Cloud and Kubernetes
+  description: Connect Java applications to Azure Blob Storage.
+
+- title: Azure Function App with Java
+  slug: azure-function-app-with-java-548db9447c31
+  category: Cloud and Kubernetes
+  description: Explore serverless application development with Java on Azure.
+
+- title: Azure Event Grid with Real World Example
+  slug: azure-event-grid-with-real-world-example-4b1a541b03d8
+  category: Cloud and Kubernetes
+  description: An example-driven introduction to Azure Event Grid.
+
+- title: Azure Key Vault with Java, Spring Boot and Jasypt
+  slug: azure-key-vault-with-java-spring-boot-and-jasypt-58f012688a2
+  category: Cloud and Kubernetes
+  description: Bring Azure Key Vault into a Java and Spring Boot application.
+
+- title: Enhanced Spring Specification - Multi Search/Filter and Sort with different operators and pagination
+  slug: enhanced-spring-specification-multi-search-filter-and-sort-with-different-operators-and-ff3cd31d4411
+  category: Application development
+  description: Build flexible search, filtering, sorting, and pagination with Spring specifications.
+
+- title: TLS/SSL/Mutual SSL with Web Application and Integration with other Application - A Detailed Guide
+  slug: tls-ssl-mutual-ssl-with-web-application-and-integration-with-other-application-a-detailed-guide-b26277c42623
+  category: Identity and application security
+  description: A detailed guide to transport security and certificate-based application integration.
+
+- title: JSON Web Token (JWT) based Authentication & Authorization in Web Application
+  slug: json-web-token-jwt-based-authentication-authorization-in-web-application-d4d76853a009
+  category: Identity and application security
+  description: Explore token-based authentication and authorization in web applications.
+
+- title: Conventional User Authentication & Authorization in Web Application
+  slug: conventional-user-authentication-authorization-in-web-application-5ba6882143e2
+  category: Identity and application security
+  description: Understand conventional approaches to application authentication and authorization.
+
+- title: OpenID Connect Authentication and OAuth 2.0 Authorization in Web Application
+  slug: openid-connect-authentication-and-oauth-2-0-authorization-in-web-application-e7e422eb5223
+  category: Identity and application security
+  description: Understand how OpenID Connect and OAuth 2.0 fit into a web application.
+
+- title: SAML based User Authentication and SSO in Web Application
+  slug: saml-based-user-authentication-and-sso-in-web-application-82982ab948cd
+  category: Identity and application security
+  description: Explore SAML-based authentication and single sign-on.
+
+- title: NTLM based User Authentication and SSO in Web Application
+  slug: ntlm-based-user-authentication-and-sso-in-web-application-4450eadb2332
+  category: Identity and application security
+  description: A walkthrough of NTLM authentication for web applications.
+
+- title: Kerberos based User Authentication and SSO in Web Application
+  slug: kerberos-based-user-authentication-and-sso-in-web-application-2d3f2a8c6bd1
+  category: Identity and application security
+  description: Explore Kerberos-based authentication and single sign-on.
+
+- title: User Authentication, Authorization & SSO with Web Application
+  slug: user-authentication-authorization-sso-with-web-application-1a41ffcc9162
+  category: Identity and application security
+  description: An overview of authentication, authorization, and single sign-on for the web.
+
+- title: Static + Dynamic Code Analysis with SonarQube
+  slug: static-dynamic-code-analysis-with-sonarqube-af689124dab0
+  category: Developer tools and DevOps
+  description: Explore code analysis as part of an engineering workflow.
+
+- title: Manage libraries, artifacts and deliverables with Nexus Repository Manager OSS
+  slug: manage-libraries-artifacts-and-deliverables-with-nexus-repository-manager-oss-2252ec3a35ff
+  category: Developer tools and DevOps
+  description: Manage shared libraries and build artifacts with Nexus Repository Manager.
+
+- title: Build Your CI & CD Pipeline with Jenkins
+  slug: build-your-ci-cd-pipeline-with-jenkins-2dc082162f86
+  category: Developer tools and DevOps
+  description: A practical guide to building a Jenkins delivery pipeline.
+
+- title: DevOps, CI & CD with Jenkins, SonarQube, Nexus, Docker and Kubernetes for Microservices
+  slug: continuous-integration-continuous-deployment-ci-cd-with-jenkins-sonarqube-nexus-docker-and-45a309bde131
+  category: Developer tools and DevOps
+  description: Bring delivery tools together in a microservices CI/CD workflow.

@@ -1,0 +1,10 @@
+<div class="card-grid article-grid">
+  {% for article in include.articles %}
+  <article class="showcase-card article-card">
+    <p class="card-kicker">{{ article.category | escape }}</p>
+    <h3><a href="https://siddhivinayak-sk.medium.com/{{ article.slug | escape }}">{{ article.title | escape }}</a></h3>
+    <p class="card-description">{{ article.description | escape }}</p>
+    <a class="card-link" href="https://siddhivinayak-sk.medium.com/{{ article.slug | escape }}" aria-label="Read {{ article.title | escape }} on Medium">Read on Medium <span aria-hidden="true">&rarr;</span></a>
+  </article>
+  {% endfor %}
+</div>
